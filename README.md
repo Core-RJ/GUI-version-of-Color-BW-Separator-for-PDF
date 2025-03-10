@@ -1,5 +1,7 @@
 - This is the desctiption file from the oringinal author :RicePasteM , my version has added a friendly-using GUI, and still using MIT license
 - Thanks to oringinal author RicePasteM again!
+- Portions of this code were developed with the assistance of artificial intelligence tools.
+
 
 ---
 
