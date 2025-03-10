@@ -1,4 +1,5 @@
---This is the desctiption file from the oringinal author :RicePasteM
+- This is the desctiption file from the oringinal author :RicePasteM , my version has added a friendly-using GUI, and still using MIT license
+- Thanks to oringinal author RicePasteM again!
 
 ---
 
