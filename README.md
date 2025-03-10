@@ -1,3 +1,7 @@
+--This is the desctiption file from the oringinal author :RicePasteM
+
+---
+
 # Color and Black & White Separator for PDF
 
 This tool is used to separate color and black & white pages from a PDF file into two separate PDF files.
